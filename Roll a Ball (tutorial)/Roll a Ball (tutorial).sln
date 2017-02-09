@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roll a Ball (tutorial)", "Roll a Ball (tutorial).csproj", "{8EF7FB45-E358-EF12-4445-157C1DCF764C}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roll a Ball (tutorial)", "Assembly-CSharp.csproj", "{617F50A6-499E-3EDA-DF6F-468DDAF89815}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,12 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8EF7FB45-E358-EF12-4445-157C1DCF764C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8EF7FB45-E358-EF12-4445-157C1DCF764C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8EF7FB45-E358-EF12-4445-157C1DCF764C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8EF7FB45-E358-EF12-4445-157C1DCF764C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{617F50A6-499E-3EDA-DF6F-468DDAF89815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{617F50A6-499E-3EDA-DF6F-468DDAF89815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{617F50A6-499E-3EDA-DF6F-468DDAF89815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{617F50A6-499E-3EDA-DF6F-468DDAF89815}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
